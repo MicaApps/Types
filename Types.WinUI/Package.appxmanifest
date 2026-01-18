@@ -3,22 +3,22 @@
   xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10"
   xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10"
   xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities"
-  IgnorableNamespaces="uap rescap">
+  xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest"
+  IgnorableNamespaces="uap rescap mp">
 
   <Identity
-    Name="Types.WinUI"
+    Name="49014Shompinice.FileTypeIconCustomizer"
     Publisher="CN=Shomn"
-    Version="1.0.0.0" />
+    Version="1.0.5.0" />
 
   <Properties>
-    <DisplayName>Types</DisplayName>
-    <PublisherDisplayName>Shomn</PublisherDisplayName>
+    <DisplayName>File Type Icon Customizer</DisplayName>
+    <PublisherDisplayName>Shompinice</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
   <Dependencies>
     <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.19041.0" />
-    <PackageDependency Name="Microsoft.WindowsAppRuntime.1.6" MinVersion="6000.0.0.0" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" />
   </Dependencies>
 
   <Resources>
@@ -30,7 +30,7 @@
       Executable="$targetnametoken$.exe"
       EntryPoint="$targetentrypoint$">
       <uap:VisualElements
-        DisplayName="Types"
+        DisplayName="File Type Icon Customizer"
         Description="Manage file types and associations"
         BackgroundColor="transparent"
         Square150x150Logo="Assets\Square150x150Logo.png"
@@ -44,4 +44,6 @@
   <Capabilities>
     <rescap:Capability Name="runFullTrust" />
   </Capabilities>
+
+  <mp:PhoneIdentity PhoneProductId="a4360bdb-9266-4d05-890c-ed521e65ced3" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 </Package>
