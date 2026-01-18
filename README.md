@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Icon" src="https://github.com/user-attachments/assets/d73b7efa-2389-4efd-8a9e-4c64f81114ed.png" align="center"/>
+    <img alt="Icon" src="https://github.com/user-attachments/assets/d73b7efa-2389-4efd-8a9e-4c64f81114ed" align="center"/>
     <h1 align="center"> Types </h1>
     <p align="center">
         A tool for customizing file type icons.
