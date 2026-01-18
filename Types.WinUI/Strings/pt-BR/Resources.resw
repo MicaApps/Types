@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Pesquisar extensões ou tipos...</value>
+  </data>
+  <data name="EditIconButton.Content" xml:space="preserve">
+    <value>Editar Ícone</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>Atualizar</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>Configurações</value>
+  </data>
+  <data name="StatusText_Loading" xml:space="preserve">
+    <value>Carregando...</value>
+  </data>
+  <data name="StatusText_Loaded" xml:space="preserve">
+    <value> tipos carregados.</value>
+  </data>
+  <data name="ChangeIconTitle" xml:space="preserve">
+    <value>Alterar Ícone</value>
+  </data>
+  <data name="SaveButton.Content" xml:space="preserve">
+    <value>Salvar</value>
+  </data>
+  <data name="ApplyButton.Content" xml:space="preserve">
+    <value>Aplicar</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="IconPathHeader" xml:space="preserve">
+    <value>Caminho do Ícone</value>
+  </data>
+  <data name="BrowseButton.Content" xml:space="preserve">
+    <value>Procurar...</value>
+  </data>
+  <data name="TypeWindow_Description.Header" xml:space="preserve">
+    <value>Descrição</value>
+  </data>
+  <data name="TypeWindow_Description.PlaceholderText" xml:space="preserve">
+    <value>Descrição do Tipo de Arquivo</value>
+  </data>
+  <data name="TypeWindow_DefaultIcon.Header" xml:space="preserve">
+    <value>Ícone Padrão</value>
+  </data>
+  <data name="TypeWindow_DefaultIcon.PlaceholderText" xml:space="preserve">
+    <value>Caminho para o arquivo de ícone (ex: shell32.dll,0)</value>
+  </data>
+  <data name="TypeWindow_Actions.Text" xml:space="preserve">
+    <value>Ações</value>
+  </data>
+  <data name="TypeWindow_AddAction.Content" xml:space="preserve">
+    <value>Adicionar Ação</value>
+  </data>
+  <data name="TypeWindow_Remove.Content" xml:space="preserve">
+    <value>Remover</value>
+  </data>
+  <data name="TypeWindow_SetDefault.Content" xml:space="preserve">
+    <value>Definir como Padrão</value>
+  </data>
+  <data name="TypeWindow_Close.Content" xml:space="preserve">
+    <value>Fechar</value>
+  </data>
+  <data name="VerbWindow_Title.Text" xml:space="preserve">
+    <value>Detalhes da Ação</value>
+  </data>
+  <data name="VerbWindow_ActionID.Header" xml:space="preserve">
+    <value>ID da Ação</value>
+  </data>
+  <data name="VerbWindow_ActionID.PlaceholderText" xml:space="preserve">
+    <value>ID Interno (ex: open)</value>
+  </data>
+  <data name="VerbWindow_MenuText.Header" xml:space="preserve">
+    <value>Texto do Menu</value>
+  </data>
+  <data name="VerbWindow_MenuText.PlaceholderText" xml:space="preserve">
+    <value>Texto exibido no menu de contexto</value>
+  </data>
+  <data name="VerbWindow_Command.Header" xml:space="preserve">
+    <value>Comando</value>
+  </data>
+  <data name="VerbWindow_Command.PlaceholderText" xml:space="preserve">
+    <value>Caminho do aplicativo e argumentos</value>
+  </data>
+  <data name="IconUpdated" xml:space="preserve">
+    <value>Ícone atualizado para {0}</value>
+  </data>
+  <data name="IconApplied" xml:space="preserve">
+    <value>Ícone aplicado para {0}</value>
+  </data>
+  <data name="ErrorTitle" xml:space="preserve">
+    <value>Erro</value>
+  </data>
+  <data name="IconPathPlaceholder" xml:space="preserve">
+    <value>Caminho para o ícone (ex: shell32.dll,0)</value>
+  </data>
+</root>

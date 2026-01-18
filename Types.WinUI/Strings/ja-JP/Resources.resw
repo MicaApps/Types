@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>拡張子または種類を検索...</value>
+  </data>
+  <data name="EditIconButton.Content" xml:space="preserve">
+    <value>アイコンの編集</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>更新</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="StatusText_Loading" xml:space="preserve">
+    <value>読み込み中...</value>
+  </data>
+  <data name="StatusText_Loaded" xml:space="preserve">
+    <value> 個のタイプを読み込みました。</value>
+  </data>
+  <data name="ChangeIconTitle" xml:space="preserve">
+    <value>アイコンの変更</value>
+  </data>
+  <data name="SaveButton.Content" xml:space="preserve">
+    <value>保存</value>
+  </data>
+  <data name="ApplyButton.Content" xml:space="preserve">
+    <value>適用</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>キャンセル</value>
+  </data>
+  <data name="IconPathHeader" xml:space="preserve">
+    <value>アイコンのパス</value>
+  </data>
+  <data name="BrowseButton.Content" xml:space="preserve">
+    <value>参照...</value>
+  </data>
+  <data name="TypeWindow_Description.Header" xml:space="preserve">
+    <value>説明</value>
+  </data>
+  <data name="TypeWindow_Description.PlaceholderText" xml:space="preserve">
+    <value>ファイルタイプの説明</value>
+  </data>
+  <data name="TypeWindow_DefaultIcon.Header" xml:space="preserve">
+    <value>デフォルトアイコン</value>
+  </data>
+  <data name="TypeWindow_DefaultIcon.PlaceholderText" xml:space="preserve">
+    <value>アイコンファイルへのパス (例: shell32.dll,0)</value>
+  </data>
+  <data name="TypeWindow_Actions.Text" xml:space="preserve">
+    <value>アクション</value>
+  </data>
+  <data name="TypeWindow_AddAction.Content" xml:space="preserve">
+    <value>アクションの追加</value>
+  </data>
+  <data name="TypeWindow_Remove.Content" xml:space="preserve">
+    <value>削除</value>
+  </data>
+  <data name="TypeWindow_SetDefault.Content" xml:space="preserve">
+    <value>デフォルトに設定</value>
+  </data>
+  <data name="TypeWindow_Close.Content" xml:space="preserve">
+    <value>閉じる</value>
+  </data>
+  <data name="VerbWindow_Title.Text" xml:space="preserve">
+    <value>アクションの詳細</value>
+  </data>
+  <data name="VerbWindow_ActionID.Header" xml:space="preserve">
+    <value>アクション ID</value>
+  </data>
+  <data name="VerbWindow_ActionID.PlaceholderText" xml:space="preserve">
+    <value>内部 ID (例: open)</value>
+  </data>
+  <data name="VerbWindow_MenuText.Header" xml:space="preserve">
+    <value>メニューテキスト</value>
+  </data>
+  <data name="VerbWindow_MenuText.PlaceholderText" xml:space="preserve">
+    <value>コンテキストメニューに表示されるテキスト</value>
+  </data>
+  <data name="VerbWindow_Command.Header" xml:space="preserve">
+    <value>コマンド</value>
+  </data>
+  <data name="VerbWindow_Command.PlaceholderText" xml:space="preserve">
+    <value>アプリケーションのパスと引数</value>
+  </data>
+  <data name="IconUpdated" xml:space="preserve">
+    <value>{0} のアイコンを更新しました</value>
+  </data>
+  <data name="IconApplied" xml:space="preserve">
+    <value>{0} のアイコンを適用しました</value>
+  </data>
+  <data name="ErrorTitle" xml:space="preserve">
+    <value>エラー</value>
+  </data>
+  <data name="IconPathPlaceholder" xml:space="preserve">
+    <value>アイコンのパス (例: shell32.dll,0)</value>
+  </data>
+</root>

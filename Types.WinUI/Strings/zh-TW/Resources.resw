@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>搜尋擴充功能或類型...</value>
+  </data>
+  <data name="EditIconButton.Content" xml:space="preserve">
+    <value>編輯圖示</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>重新整理</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="StatusText_Loading" xml:space="preserve">
+    <value>載入中...</value>
+  </data>
+  <data name="StatusText_Loaded" xml:space="preserve">
+    <value> 種類型已載入。</value>
+  </data>
+  <data name="ChangeIconTitle" xml:space="preserve">
+    <value>變更圖示</value>
+  </data>
+  <data name="SaveButton.Content" xml:space="preserve">
+    <value>儲存</value>
+  </data>
+  <data name="ApplyButton.Content" xml:space="preserve">
+    <value>套用</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="IconPathHeader" xml:space="preserve">
+    <value>圖示路徑</value>
+  </data>
+  <data name="BrowseButton.Content" xml:space="preserve">
+    <value>瀏覽...</value>
+  </data>
+  <data name="TypeWindow_Description.Header" xml:space="preserve">
+    <value>描述</value>
+  </data>
+  <data name="TypeWindow_Description.PlaceholderText" xml:space="preserve">
+    <value>檔案類型描述</value>
+  </data>
+  <data name="TypeWindow_DefaultIcon.Header" xml:space="preserve">
+    <value>預設圖示</value>
+  </data>
+  <data name="TypeWindow_DefaultIcon.PlaceholderText" xml:space="preserve">
+    <value>圖示檔案路徑 (例如 shell32.dll,0)</value>
+  </data>
+  <data name="TypeWindow_Actions.Text" xml:space="preserve">
+    <value>動作</value>
+  </data>
+  <data name="TypeWindow_AddAction.Content" xml:space="preserve">
+    <value>新增動作</value>
+  </data>
+  <data name="TypeWindow_Remove.Content" xml:space="preserve">
+    <value>移除</value>
+  </data>
+  <data name="TypeWindow_SetDefault.Content" xml:space="preserve">
+    <value>設為預設</value>
+  </data>
+  <data name="TypeWindow_Close.Content" xml:space="preserve">
+    <value>關閉</value>
+  </data>
+  <data name="VerbWindow_Title.Text" xml:space="preserve">
+    <value>動作詳細資料</value>
+  </data>
+  <data name="VerbWindow_ActionID.Header" xml:space="preserve">
+    <value>動作 ID</value>
+  </data>
+  <data name="VerbWindow_ActionID.PlaceholderText" xml:space="preserve">
+    <value>內部 ID (例如 open)</value>
+  </data>
+  <data name="VerbWindow_MenuText.Header" xml:space="preserve">
+    <value>功能表文字</value>
+  </data>
+  <data name="VerbWindow_MenuText.PlaceholderText" xml:space="preserve">
+    <value>在操作功能表中顯示的文字</value>
+  </data>
+  <data name="VerbWindow_Command.Header" xml:space="preserve">
+    <value>命令</value>
+  </data>
+  <data name="VerbWindow_Command.PlaceholderText" xml:space="preserve">
+    <value>應用程式路徑和引數</value>
+  </data>
+  <data name="IconUpdated" xml:space="preserve">
+    <value>{0} 的圖示已更新</value>
+  </data>
+  <data name="IconApplied" xml:space="preserve">
+    <value>{0} 的圖示已套用</value>
+  </data>
+  <data name="ErrorTitle" xml:space="preserve">
+    <value>錯誤</value>
+  </data>
+  <data name="IconPathPlaceholder" xml:space="preserve">
+    <value>圖示路徑 (例如 shell32.dll,0)</value>
+  </data>
+</root>

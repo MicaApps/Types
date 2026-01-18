@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Search extensions or types...</value>
+  </data>
+  <data name="EditIconButton.Content" xml:space="preserve">
+    <value>Edit Icon</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>Refresh</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="StatusText_Loading" xml:space="preserve">
+    <value>Loading...</value>
+  </data>
+  <data name="StatusText_Loaded" xml:space="preserve">
+    <value> types loaded.</value>
+  </data>
+  <data name="ChangeIconTitle" xml:space="preserve">
+    <value>Change Icon</value>
+  </data>
+  <data name="SaveButton.Content" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="ApplyButton.Content" xml:space="preserve">
+    <value>Apply</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="IconPathHeader" xml:space="preserve">
+    <value>Icon Path</value>
+  </data>
+  <data name="BrowseButton.Content" xml:space="preserve">
+    <value>Browse...</value>
+  </data>
+  <data name="TypeWindow_Description.Header" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="TypeWindow_Description.PlaceholderText" xml:space="preserve">
+    <value>File Type Description</value>
+  </data>
+  <data name="TypeWindow_DefaultIcon.Header" xml:space="preserve">
+    <value>Default Icon</value>
+  </data>
+  <data name="TypeWindow_DefaultIcon.PlaceholderText" xml:space="preserve">
+    <value>Path to icon file (e.g. shell32.dll,0)</value>
+  </data>
+  <data name="TypeWindow_Actions.Text" xml:space="preserve">
+    <value>Actions</value>
+  </data>
+  <data name="TypeWindow_AddAction.Content" xml:space="preserve">
+    <value>Add Action</value>
+  </data>
+  <data name="TypeWindow_Remove.Content" xml:space="preserve">
+    <value>Remove</value>
+  </data>
+  <data name="TypeWindow_SetDefault.Content" xml:space="preserve">
+    <value>Set Default</value>
+  </data>
+  <data name="TypeWindow_Close.Content" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="VerbWindow_Title.Text" xml:space="preserve">
+    <value>Action Details</value>
+  </data>
+  <data name="VerbWindow_ActionID.Header" xml:space="preserve">
+    <value>Action ID</value>
+  </data>
+  <data name="VerbWindow_ActionID.PlaceholderText" xml:space="preserve">
+    <value>Internal ID (e.g. open)</value>
+  </data>
+  <data name="VerbWindow_MenuText.Header" xml:space="preserve">
+    <value>Menu Text</value>
+  </data>
+  <data name="VerbWindow_MenuText.PlaceholderText" xml:space="preserve">
+    <value>Text shown in context menu</value>
+  </data>
+  <data name="VerbWindow_Command.Header" xml:space="preserve">
+    <value>Command</value>
+  </data>
+  <data name="VerbWindow_Command.PlaceholderText" xml:space="preserve">
+    <value>Application path and arguments</value>
+  </data>
+  <data name="IconUpdated" xml:space="preserve">
+    <value>Icon updated for {0}</value>
+  </data>
+  <data name="IconApplied" xml:space="preserve">
+    <value>Icon applied for {0}</value>
+  </data>
+  <data name="ErrorTitle" xml:space="preserve">
+    <value>Error</value>
+  </data>
+    <data name="IconPathPlaceholder" xml:space="preserve">
+    <value>Path to icon (e.g. shell32.dll,0)</value>
+  </data>
+</root>

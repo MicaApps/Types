@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>확장명 또는 형식 검색...</value>
+  </data>
+  <data name="EditIconButton.Content" xml:space="preserve">
+    <value>아이콘 편집</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>새로 고침</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>설정</value>
+  </data>
+  <data name="StatusText_Loading" xml:space="preserve">
+    <value>로드 중...</value>
+  </data>
+  <data name="StatusText_Loaded" xml:space="preserve">
+    <value>개 형식이 로드되었습니다.</value>
+  </data>
+  <data name="ChangeIconTitle" xml:space="preserve">
+    <value>아이콘 변경</value>
+  </data>
+  <data name="SaveButton.Content" xml:space="preserve">
+    <value>저장</value>
+  </data>
+  <data name="ApplyButton.Content" xml:space="preserve">
+    <value>적용</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>취소</value>
+  </data>
+  <data name="IconPathHeader" xml:space="preserve">
+    <value>아이콘 경로</value>
+  </data>
+  <data name="BrowseButton.Content" xml:space="preserve">
+    <value>찾아보기...</value>
+  </data>
+  <data name="TypeWindow_Description.Header" xml:space="preserve">
+    <value>설명</value>
+  </data>
+  <data name="TypeWindow_Description.PlaceholderText" xml:space="preserve">
+    <value>파일 형식 설명</value>
+  </data>
+  <data name="TypeWindow_DefaultIcon.Header" xml:space="preserve">
+    <value>기본 아이콘</value>
+  </data>
+  <data name="TypeWindow_DefaultIcon.PlaceholderText" xml:space="preserve">
+    <value>아이콘 파일 경로 (예: shell32.dll,0)</value>
+  </data>
+  <data name="TypeWindow_Actions.Text" xml:space="preserve">
+    <value>작업</value>
+  </data>
+  <data name="TypeWindow_AddAction.Content" xml:space="preserve">
+    <value>작업 추가</value>
+  </data>
+  <data name="TypeWindow_Remove.Content" xml:space="preserve">
+    <value>제거</value>
+  </data>
+  <data name="TypeWindow_SetDefault.Content" xml:space="preserve">
+    <value>기본값으로 설정</value>
+  </data>
+  <data name="TypeWindow_Close.Content" xml:space="preserve">
+    <value>닫기</value>
+  </data>
+  <data name="VerbWindow_Title.Text" xml:space="preserve">
+    <value>작업 세부 정보</value>
+  </data>
+  <data name="VerbWindow_ActionID.Header" xml:space="preserve">
+    <value>작업 ID</value>
+  </data>
+  <data name="VerbWindow_ActionID.PlaceholderText" xml:space="preserve">
+    <value>내부 ID (예: open)</value>
+  </data>
+  <data name="VerbWindow_MenuText.Header" xml:space="preserve">
+    <value>메뉴 텍스트</value>
+  </data>
+  <data name="VerbWindow_MenuText.PlaceholderText" xml:space="preserve">
+    <value>컨텍스트 메뉴에 표시되는 텍스트</value>
+  </data>
+  <data name="VerbWindow_Command.Header" xml:space="preserve">
+    <value>명령</value>
+  </data>
+  <data name="VerbWindow_Command.PlaceholderText" xml:space="preserve">
+    <value>응용 프로그램 경로 및 인수</value>
+  </data>
+  <data name="IconUpdated" xml:space="preserve">
+    <value>{0}의 아이콘이 업데이트되었습니다.</value>
+  </data>
+  <data name="IconApplied" xml:space="preserve">
+    <value>{0}의 아이콘이 적용되었습니다.</value>
+  </data>
+  <data name="ErrorTitle" xml:space="preserve">
+    <value>오류</value>
+  </data>
+  <data name="IconPathPlaceholder" xml:space="preserve">
+    <value>아이콘 경로 (예: shell32.dll,0)</value>
+  </data>
+</root>

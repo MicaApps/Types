@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="SearchBox.PlaceholderText" xml:space="preserve">
+    <value>Cerca estensioni o tipi...</value>
+  </data>
+  <data name="EditIconButton.Content" xml:space="preserve">
+    <value>Modifica icona</value>
+  </data>
+  <data name="RefreshButton.Content" xml:space="preserve">
+    <value>Aggiorna</value>
+  </data>
+  <data name="SettingsButton.Content" xml:space="preserve">
+    <value>Impostazioni</value>
+  </data>
+  <data name="StatusText_Loading" xml:space="preserve">
+    <value>Caricamento...</value>
+  </data>
+  <data name="StatusText_Loaded" xml:space="preserve">
+    <value> tipi caricati.</value>
+  </data>
+  <data name="ChangeIconTitle" xml:space="preserve">
+    <value>Cambia icona</value>
+  </data>
+  <data name="SaveButton.Content" xml:space="preserve">
+    <value>Salva</value>
+  </data>
+  <data name="ApplyButton.Content" xml:space="preserve">
+    <value>Applica</value>
+  </data>
+  <data name="CancelButton.Content" xml:space="preserve">
+    <value>Annulla</value>
+  </data>
+  <data name="IconPathHeader" xml:space="preserve">
+    <value>Percorso icona</value>
+  </data>
+  <data name="BrowseButton.Content" xml:space="preserve">
+    <value>Sfoglia...</value>
+  </data>
+  <data name="TypeWindow_Description.Header" xml:space="preserve">
+    <value>Descrizione</value>
+  </data>
+  <data name="TypeWindow_Description.PlaceholderText" xml:space="preserve">
+    <value>Descrizione tipo file</value>
+  </data>
+  <data name="TypeWindow_DefaultIcon.Header" xml:space="preserve">
+    <value>Icona predefinita</value>
+  </data>
+  <data name="TypeWindow_DefaultIcon.PlaceholderText" xml:space="preserve">
+    <value>Percorso file icona (es. shell32.dll,0)</value>
+  </data>
+  <data name="TypeWindow_Actions.Text" xml:space="preserve">
+    <value>Azioni</value>
+  </data>
+  <data name="TypeWindow_AddAction.Content" xml:space="preserve">
+    <value>Aggiungi azione</value>
+  </data>
+  <data name="TypeWindow_Remove.Content" xml:space="preserve">
+    <value>Rimuovi</value>
+  </data>
+  <data name="TypeWindow_SetDefault.Content" xml:space="preserve">
+    <value>Imposta come predefinito</value>
+  </data>
+  <data name="TypeWindow_Close.Content" xml:space="preserve">
+    <value>Chiudi</value>
+  </data>
+  <data name="VerbWindow_Title.Text" xml:space="preserve">
+    <value>Dettagli azione</value>
+  </data>
+  <data name="VerbWindow_ActionID.Header" xml:space="preserve">
+    <value>ID azione</value>
+  </data>
+  <data name="VerbWindow_ActionID.PlaceholderText" xml:space="preserve">
+    <value>ID interno (es. open)</value>
+  </data>
+  <data name="VerbWindow_MenuText.Header" xml:space="preserve">
+    <value>Testo menu</value>
+  </data>
+  <data name="VerbWindow_MenuText.PlaceholderText" xml:space="preserve">
+    <value>Testo mostrato nel menu contestuale</value>
+  </data>
+  <data name="VerbWindow_Command.Header" xml:space="preserve">
+    <value>Comando</value>
+  </data>
+  <data name="VerbWindow_Command.PlaceholderText" xml:space="preserve">
+    <value>Percorso applicazione e argomenti</value>
+  </data>
+  <data name="IconUpdated" xml:space="preserve">
+    <value>Icona aggiornata per {0}</value>
+  </data>
+  <data name="IconApplied" xml:space="preserve">
+    <value>Icona applicata per {0}</value>
+  </data>
+  <data name="ErrorTitle" xml:space="preserve">
+    <value>Errore</value>
+  </data>
+  <data name="IconPathPlaceholder" xml:space="preserve">
+    <value>Percorso icona (es. shell32.dll,0)</value>
+  </data>
+</root>
