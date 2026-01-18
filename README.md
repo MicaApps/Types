@@ -30,7 +30,7 @@
 - zh-TW (繁体中文)
 
 ## Concept
-![image](https://github.com/user-attachments/assets/86ab962f-3aa4-4fb5-8451-c4081f452778.png)
+![image](https://github.com/user-attachments/assets/86ab962f-3aa4-4fb5-8451-c4081f452778)
 
 
 ## Background
