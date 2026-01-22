@@ -8,7 +8,7 @@
 
 
 ## Download
-<a style="margin-left:24px" href="https://www.microsoft.com/store/productId/9PLQ8DP73ZDF">
+<a style="margin-left:24px" href="https://apps.microsoft.com/detail/9MVNSJRNXCPN?hl=zh-cn&gl=CN&ocid=pdpshare">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://get.microsoft.com/images/en-us%20light.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://get.microsoft.com/images/en-us%20dark.svg" />
